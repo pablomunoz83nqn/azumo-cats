@@ -1,8 +1,7 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_button/flutter_button.dart';
+import 'package:gatos/src/create/search_delegate.dart';
 import 'package:gatos/src/providers/gatos_provider.dart';
-import 'package:gatos/src/search/search_delegate.dart';
 
 import 'package:gatos/src/widgets/card_gif_widget.dart';
 
