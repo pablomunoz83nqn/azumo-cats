@@ -2,7 +2,7 @@ Instructions to run a Flutter App in local.
 In order to run the Challenge locally you need to follow bellow instructions.
 1- Clone repository from Git hub (number 1 on image), or download it and extract inside directory
 (number 2) that you want.
-Use this URL. https://github.com/pablomunoz83nqn/xxxxxxxx
+Use this URL. https://github.com/pablomunoz83nqn/azumo-cats/tree/main/azumo
 VS Code Process
 
 - Open Visual studio Code, we want to execute our app on iOS Emulator o physical device.
